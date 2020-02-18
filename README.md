@@ -15,6 +15,7 @@ J'imagine que le nom du repo t'avait déjà mit la puce à l'oreille. :wink:
 Je rends tout de même mon travail pour que les stats :
  * "le projet n'était pas au niveau de ce qui était demandé" :arrow_upper_right:,
  * "Nous venons de checker les projets rendus, et certains moussaillons ont oublié de le rendre" :arrow_lower_right:.
+ 
 Dans le but de renvoyer au staff THP des stats qui signifient : "Je m'accroche mais j'y arrive pas dans le temps qui m'est imparti" dans l'espoir qu'ils essayent à chaque session d'améliorer le cours pour les prochains moussaillons ! :sparkles:
 
 Du coup je n'ai réussi qu'à aller au `'2.2.4. Construction de la base de données'` là je dois pusher l'application sur Heroku.
