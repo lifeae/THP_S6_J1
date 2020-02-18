@@ -41,7 +41,7 @@ A demain matin ! :fire:
 * Ouvre l'application sur ton serveur local : http://localhost:3000
 * Lien Heroku : https://lifeae-eventbrite.herokuapp.com/
 
-# Consignes
+# Consignes
 
 Projet : Eventbrite : introduction et backend
 
