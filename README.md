@@ -4,12 +4,12 @@
 
 ## Salut à toi Correcteur !
 
-La notation devrait aller vite ! ;)
+J'ai une bonne nouvelle pour toi ! La correction devrait aller vite ! ;)
 Je suis méga à la bourre sur le programme parce que je galère grave.
-Mais j'avance tous les jours et mon moral est à bloc !
+Mais j'avance tous les jours et suis toujours chaud ! :muscle:
 
 Tu as sous les yeux le travail que l'on devait rendre hier.
-J'imagine que le nom du repo t'avais déjà mit la puce à l'oreille.
+J'imagine que le nom du repo t'avais déjà mit la puce à l'oreille. wink:
 
 Et je n'ai réussi qu'à aller au '2.2.4. Construction de la base de données' là je dois pusher l'application sur Heroku.
 Le push sur Heroku fonctionne mais j'ai un gros stop :
@@ -18,10 +18,10 @@ Le push sur Heroku fonctionne mais j'ai un gros stop :
 You may have mistyped the address or the page may have moved.
 If you are the application owner check the logs for more information.`
 
-J'ai appliqué quelques trucs que j'ai vu sur StackOverflow pour régler le problème, je sais pas d'où vient le problème, je pensais que ça venait du config/routes.rb qui ne propose aucune route (même pas le root) et donc que c'est normal qu'il n'affiche même pas une view. Mais quand on lance une app Rails normalement on a ça quoi qu'il arrive :
+J'ai appliqué quelques trucs que j'ai vu sur StackOverflow pour régler le problème, je sais pas d'où vient le problème, je pensais que ça venait du config/routes.rb qui ne propose aucune route (même pas le root) et donc que c'est normal qu'il n'affiche même pas une view.
+Mais quand on lance une app Rails normalement on a ça quoi qu'il arrive non !?
 
 ![Yay! You're on Rails!](https://cloud.google.com/ruby/images/new-rails-app-screenshot.png "Yay! You're on Rails!")
-
 
 Donc je sais pas d'où vient encore le problème et il se fait tard. Je vais sacrifier un joker pour aller me coucher et éviter que je sois une larve pour le reste de la semaine !
 
