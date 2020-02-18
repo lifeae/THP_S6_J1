@@ -34,7 +34,7 @@ e = 1
 events = 10.times do
   Event.create!(
     start_date: Faker::Date.forward(days: 365),
-    duration: Faker::Number.between(from: 1, to: 240),
+    duration: 120,
     title: Faker::Lorem.sentence(word_count: 3),
     description: Faker::Lorem.sentences,
     price:Faker::Commerce.price,
