@@ -11,7 +11,7 @@ Mais j'avance tous les jours et suis toujours chaud ! :muscle:
 Tu as sous les yeux le travail que l'on devait rendre hier.
 J'imagine que le nom du repo t'avait déjà mit la puce à l'oreille. wink:
 
-Et je n'ai réussi qu'à aller au '2.2.4. Construction de la base de données' là je dois pusher l'application sur Heroku.
+Et je n'ai réussi qu'à aller au `'2.2.4. Construction de la base de données'` là je dois pusher l'application sur Heroku.
 Le push sur Heroku fonctionne mais j'ai un gros stop :
 
 `The page you were looking for doesn't exist.
